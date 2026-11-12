@@ -9,7 +9,7 @@ Bu çalışmada, 20 litrelik çelik varillerde sıcak tutkalı eritip üretim ha
 
 | Bölüm | İçerik | PDF |
 | --- | --- | --- |
-| [Laboratuvar föyleri](foyler/README.md) | Emniyet mimarisi, risk değerlendirmesi, güvenli uzaktan servis, yama kararı, olay müdahalesi ve yapay zekâ uyarıları üzerine yedi föy | [Föyleri aç](foyler/VERMAK_IGM_20_DRUM_Foyler.pdf) |
+| [Laboratuvar föyleri](foyler/README.md) | Emniyet mimarisi, risk değerlendirmesi, güvenli uzaktan servis, yama kararı, olay müdahalesi ve yapay zekâ uyarıları üzerine yedi föy | [Föyleri aç](foyler/) |
 | [SWOT analizi](swot-analizi/README.md) | İç faktörler olarak güçlü ve zayıf yönler, dış faktörler olarak fırsatlar ve tehditler | [Analizi aç](swot-analizi/VERMAK_IGM_20_DRUM_SWOT_Analizi.pdf) |
 
 Makinenin teknik özellikleri için üreticinin [VERMAK IGM 20 DRUM ürün sayfası](https://vermak.com.tr/igm-20-drum-tutkal-eritme-sistemi/) kullanılmıştır. Föylerdeki olay, zafiyet ve yapay zekâ örnekleri eğitim senaryolarıdır.
